@@ -7,3 +7,6 @@ Thank u.
 gist: https://gist.github.com/alamintalukder
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alamintalukder)](https://github.com/alamintalukder/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamintalukder&langs_count=8)](https://github.com/alamintalukder/github-readme-stats)
