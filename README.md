@@ -3,10 +3,14 @@ Hi! This is Md.Alamin Talukder, department of CSE, Jagannath University. I am in
 Here, I have uploaded some gists on python in data science,data analysis,data visualization and machine learning. 
 
 Thank u.
+## Skills
+@ java 
+
 
 gist: https://gist.github.com/alamintalukder
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alamintalukder)](https://github.com/alamintalukder/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamintalukder&langs_count=8)](https://github.com/alamintalukder/github-readme-stats)
+
+
