@@ -4,7 +4,10 @@ Here, I have uploaded some gists on python in data science,data analysis,data vi
 
 Thank u.
 ## Skills
-@ java 
+* pyhon
+* data science
+* data analysis
+* machine learning
 
 
 gist: https://gist.github.com/alamintalukder
